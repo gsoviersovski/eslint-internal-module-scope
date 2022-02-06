@@ -1,0 +1,9 @@
+{
+  "name": "eslint-plugin-internal-modules-scope",
+  "version": "1.0.0",
+  "description": "An ESLint extension that prevents modules in a directory named 'internal' to be imported by anyone except modules in the direct parent directory.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
